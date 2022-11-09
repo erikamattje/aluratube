@@ -1,0 +1,14 @@
+{
+    "name": "Erika Mattje",
+    "job": "Desenvolvedora Front-end",
+    "github": "erikamattje",
+    "playlists": {
+        "jogos": [
+            {
+                "title": "Algum titulo",
+                "url": "url",
+                "thumb": "thumbnail do video"
+            }
+        ]
+    }
+}
